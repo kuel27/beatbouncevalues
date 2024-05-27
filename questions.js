@@ -2,12 +2,12 @@ questions = [
     {
         "id": 1,
         "question": "Charity is an effective way of helping those in need.",
-        "effects": { "right": 1 }
+        "effects": { "indv": 1 }
     },
     {
         "id": 2,
         "question": "It is in human nature to be greedy.",
-        "effects": { "right": 1 }
+        "effects": { "indv": 1 }
     },
     {
         "id": 3,
@@ -117,7 +117,7 @@ questions = [
     {
         "id": 24,
         "question": "It is ethical to prioritize the needs of your family over the needs of strangers.",
-        "effects": { "right": 1 }
+        "effects": { "indv": 1 }
     },
     {
         "id": 25,
@@ -126,7 +126,7 @@ questions = [
     },
     {
         "id": 26,
-        "question": "It is ever acceptable to break a promise.",
+        "question": "It is acceptable to break a promise sometimes.",
         "effects": { "auth": -1 }
     },
     {
@@ -207,7 +207,7 @@ questions = [
     {
         "id": 42,
         "question": "People should be praised for doing the right thing, even if they do it for selfish reasons.",
-        "effects": { "right": 1 }
+        "effects": { "indv": 1 }
     },
     {
         "id": 43,
@@ -217,11 +217,11 @@ questions = [
     {
         "id": 44,
         "question": "The pursuit of happiness should be a personal priority, even if it comes at the expense of others' well-being.",
-        "effects": { "right": 1 }
+        "effects": { "indv": 1 }
     },
     {
         "id": 45,
         "question": "It is better to focus on individual achievements rather than collective progress when considering societal success.",
-        "effects": { "right": 1 }
+        "effects": { "indv": 1 }
     }
 ]
