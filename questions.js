@@ -101,127 +101,127 @@ questions = [
     },
     {
         "id": 21,
-        "question": "Should people always tell the truth, even if it might hurt someone's feelings?",
+        "question": "People should always tell the truth, even if it might hurt someone's feelings.",
         "effects": { "auth": 1 }
     },
     {
         "id": 22,
-        "question": "Is it morally acceptable to lie to protect someone's feelings?",
+        "question": "Lying to protect someone's feelings is morally acceptable.",
         "effects": { "auth": -1 }
     },
     {
         "id": 23,
-        "question": "Should individuals be forgiven for past mistakes if they show genuine remorse and effort to change?",
+        "question": "Individuals should be forgiven for past mistakes if they show genuine remorse and effort to change.",
         "effects": { "prog": 1 }
     },
     {
         "id": 24,
-        "question": "Is it ethical to prioritize the needs of your family over the needs of strangers?",
+        "question": "It is ethical to prioritize the needs of your family over the needs of strangers.",
         "effects": { "right": 1 }
     },
     {
         "id": 25,
-        "question": "Should we judge people more by their intentions or by their actions?",
+        "question": "We should judge people more by their intentions than by their actions.",
         "effects": { "auth": -1 }
     },
     {
         "id": 26,
-        "question": "Is it ever acceptable to break a promise?",
+        "question": "It is ever acceptable to break a promise.",
         "effects": { "auth": -1 }
     },
     {
         "id": 27,
-        "question": "Is it more important to be kind or to be honest?",
+        "question": "It is more important to be kind than to be honest.",
         "effects": { "prog": 1 }
     },
     {
         "id": 28,
-        "question": "Should people be held accountable for actions they committed as children?",
+        "question": "People should be held accountable for actions they committed as children.",
         "effects": { "prog": -1 }
     },
     {
         "id": 29,
-        "question": "Is it ethical to use animals for scientific research if it benefits human health?",
+        "question": "It is ethical to use animals for scientific research if it benefits human health.",
         "effects": { "prog": -1 }
     },
     {
         "id": 30,
-        "question": "Should wealthier individuals have a greater responsibility to help those in need?",
+        "question": "Wealthier individuals should have a greater responsibility to help those in need.",
         "effects": { "prog": 1 }
     },
     {
         "id": 31,
-        "question": "Is it fair to expect people to donate a portion of their income to charity?",
+        "question": "It is fair to expect people to donate a portion of their income to charity.",
         "effects": { "prog": 1 }
     },
     {
         "id": 32,
-        "question": "Should people be given second chances in all aspects of life, including relationships and careers?",
+        "question": "People should be given second chances in all aspects of life, including relationships and careers.",
         "effects": { "prog": 1 }
     },
     {
         "id": 33,
-        "question": "Is it morally wrong to spend extravagantly on luxury items when others are in need?",
+        "question": "It is morally wrong to spend extravagantly on luxury items when others are in need.",
         "effects": { "prog": 1 }
     },
     {
         "id": 34,
-        "question": "Should parents always respect their children's privacy?",
+        "question": "Parents should always respect their children's privacy.",
         "effects": { "prog": 1 }
     },
     {
         "id": 35,
-        "question": "Is it ethical to share someone else's secret if it could prevent harm?",
+        "question": "It is ethical to share someone else's secret if it could prevent harm.",
         "effects": { "auth": 1 }
     },
     {
         "id": 36,
-        "question": "Should individuals have the right to choose how they die, including through assisted suicide?",
+        "question": "Individuals should have the right to choose how they die, including through assisted suicide.",
         "effects": { "prog": 1 }
     },
     {
         "id": 37,
-        "question": "Is it important to prioritize the environment over economic growth?",
+        "question": "It is important to prioritize the environment over economic growth.",
         "effects": { "prog": 1 }
     },
     {
         "id": 38,
-        "question": "Should companies be held morally responsible for the actions of their employees?",
+        "question": "Companies should be held morally responsible for the actions of their employees.",
         "effects": { "prog": 1 }
     },
     {
         "id": 39,
-        "question": "Is it acceptable to use artificial intelligence and automation if it leads to job loss?",
+        "question": "It is acceptable to use artificial intelligence and automation if it leads to job loss.",
         "effects": { "prog": -1 }
     },
     {
         "id": 40,
-        "question": "Should forgiveness be unconditional, or should it depend on the circumstances?",
+        "question": "Forgiveness should be unconditional, rather than depending on the circumstances.",
         "effects": { "prog": -1 }
     },
     {
         "id": 41,
-        "question": "Is it ethical to impose your beliefs on others if you believe it will benefit them?",
+        "question": "It is ethical to impose your beliefs on others if you believe it will benefit them.",
         "effects": { "auth": 1 }
     },
     {
         "id": 42,
-        "question": "Should people be praised for doing the right thing, even if they do it for selfish reasons?",
+        "question": "People should be praised for doing the right thing, even if they do it for selfish reasons.",
         "effects": { "right": 1 }
     },
     {
         "id": 43,
-        "question": "Is it fair to judge someone's character based on a single action or mistake?",
+        "question": "It is fair to judge someone's character based on a single action or mistake.",
         "effects": { "prog": -1 }
     },
     {
         "id": 44,
-        "question": "Should the pursuit of happiness be a personal priority, even if it comes at the expense of others' well-being?",
+        "question": "The pursuit of happiness should be a personal priority, even if it comes at the expense of others' well-being.",
         "effects": { "right": 1 }
     },
     {
         "id": 45,
-        "question": "Is it better to focus on individual achievements or collective progress when considering societal success?",
+        "question": "It is better to focus on individual achievements rather than collective progress when considering societal success.",
         "effects": { "right": 1 }
     }
 ]
